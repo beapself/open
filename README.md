@@ -1,2 +1,2 @@
-# open
-Some cases I have summed up
+# 每日wiki
+总结的一些小案例，日常记录，详见wiki
