@@ -1,5 +1,5 @@
 # 每日wiki
-总结的一些小案例，日常记录，详见wiki
+总结的一些小案例，日常记录，[早期文章](https://blog.csdn.net/beap123?type=blog)
 
 每日总结打卡!
 
